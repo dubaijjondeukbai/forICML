@@ -8,7 +8,7 @@
 | **2023** | 6,538 | 1,827 | 27.94% |
 | **2022** | 5,630 | 1,235 | 21.94% |
 
-> AI이후 특이점 도
+> AI이후 특이점 도달
 
 ### 연구 분야
 `DL`, `Statical ML`, `Optimization`, `Reinforcement Learning`, `Trustworthy ML`, `General ML`, `Evaluation`, `Application-driven ML`, `ML Systems`
